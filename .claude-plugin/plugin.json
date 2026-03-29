@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "description": "製造業向け週報作成と見積書PDF生成をバンドルしたビジネスツールプラグイン。weekly-reportスキルとestimate-generatorスキルを含む。",
     "author": {
-        "name": "Business Tools Team",
-        "url": "https://github.com/business-tools"
+        "name": "nobita2041",
+        "url": "https://github.com/nobita2041"
     },
-    "repository": "https://github.com/business-tools/claude-code-business-tools-plugin",
+    "repository": "https://github.com/nobita2041/claude-code-business-tools-plugin",
     "license": "MIT"
 }

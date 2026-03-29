@@ -1,8 +1,8 @@
 {
     "name": "business-tools-marketplace",
     "owner": {
-        "name": "Business Tools Team",
-        "url": "https://github.com/business-tools"
+        "name": "nobita2041",
+        "url": "https://github.com/nobita2041"
     },
     "plugins": [
         {
@@ -10,9 +10,9 @@
             "description": "製造週報とPDF見積書を一括インストール。weekly-report & estimate-generator スキル同梱。",
             "source": {
                 "source": "github",
-                "repo": "business-tools/claude-code-business-tools-plugin"
+                "repo": "nobita2041/claude-code-business-tools-plugin"
             },
-            "homepage": "https://github.com/business-tools/claude-code-business-tools-plugin"
+            "homepage": "https://github.com/nobita2041/claude-code-business-tools-plugin"
         }
     ]
 }
